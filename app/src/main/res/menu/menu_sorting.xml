@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+      <item
+          android:title="@string/sort_by_name"
+          android:id="@+id/sortByName"/>
+        <item
+            android:title="@string/sort_by_price"
+            android:id="@+id/sortByPrice"/>
+        <item
+            android:title="@string/sort_by_rating"
+            android:id="@+id/sortByRating"/>
+
+
+
+    </group>
+
+</menu>
